@@ -1,0 +1,15 @@
+Dimensional Modeling Concepts:
+1- Dimensional Modeling Basics
+2- Star Schema vs Snowflake Schema vs Hybrid
+3- Factless fact table
+4- Multi-fact Star schema (Families of Stars) 
+5- Shared dimensions and Conforming dimensions
+6- Multi Star Schema and Degenerated dimensions
+7- Slowly changing diemnsions and type1/type2/type3 changes
+8- Surrogate Key or Artificial Key
+9- Rapidly changing (large) dimensions
+10- Junk dimension
+11- Additivity of measures: Fully/Semi/Non Additive
+12- Aggregate fact tables
+13- Snapshot and Transaction fact tables
+14- Core and Custom fact tables
